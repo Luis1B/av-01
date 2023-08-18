@@ -11,7 +11,13 @@
 }
 .titulo{
     font-size: 10px;
-    color: rgb(146, 83, 204);
+    color: rgb(0, 0, 0);
     margin-bottom: 7px;
     text-align: center;
+    font-family: 'Righteous', cursive;
+
+}
+
+@media screen { 
+    
 }

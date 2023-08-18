@@ -64,5 +64,16 @@
     padding: 1em;
     background-color: var(--branco);
  }
- 
+ .titulo__container{
+    display: none;
+ }
+ @media screen and (min-width:1024px){
+    .titulo__container{
+        color:rgb(0, 0, 0);
+        font-size: 40px;
+        display: block;
+        font-family: 'Righteous', cursive;
+    }
+    
+ }
 
